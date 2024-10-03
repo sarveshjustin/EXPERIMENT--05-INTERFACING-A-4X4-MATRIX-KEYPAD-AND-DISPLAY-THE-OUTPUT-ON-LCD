@@ -181,8 +181,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By:Manoj karthik R
-Register No:212222240061
+Developed By:sarvesh s
+Register No:212222230135
 ```
 ```
 #include "main.h"
